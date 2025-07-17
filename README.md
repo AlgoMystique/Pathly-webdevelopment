@@ -22,9 +22,7 @@
 
 ## About Pathly
 
-Pathly Inc is a mission-driven nonprofit advancing STEM education access for underrepresented youth across Australia.
-
-Currently in its implementation phase, Pathly is dedicated to delivering an exceptional user experience through a modern, responsive web platform.
+Pathly Inc is a mission-driven nonprofit advancing STEM education access for underrepresented youth across Australia. Currently in its implementation phase, Pathly is dedicated to delivering an exceptional user experience through a modern, responsive web platform.
 
 
 
