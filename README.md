@@ -139,7 +139,6 @@ Scheduled production deployment planned for October 2025.
 
 Deployed on Vercel, accessible at [URL coming soon].
 
-Rollback and monitoring configured.
 
 ## Contributing
 This is a client project. Contributions are managed by the project team. For questions or collaboration, please contact the project lead. 
