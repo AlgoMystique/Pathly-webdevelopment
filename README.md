@@ -18,13 +18,15 @@
 - [License](#license)  
 - [Contact](#contact)
 
----
+
 
 ## About Pathly
 
-Pathly is a [brief description of Pathly’s business — e.g., health services platform / medical appointment management / etc.] dedicated to delivering exceptional user experience through a modern, responsive web platform.
+Pathly Inc is a mission-driven nonprofit advancing STEM education access for underrepresented youth across Australia.
 
----
+Currently in its implementation phase, Pathly is dedicated to delivering an exceptional user experience through a modern, responsive web platform.
+
+
 
 ## Project Overview
 
